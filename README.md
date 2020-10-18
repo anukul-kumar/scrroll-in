@@ -59,6 +59,16 @@ To run the extension locally follow these steps:
 
 All you need to know for contributing to this project is basic **JavaScript**, **HTML**, and **CSS**.
 
+JavaScript is the world's most popular programming language.JavaScript is the programming language of the Web.JavaScript is easy to learn.
+
+
+HTML is the standard markup language for Web pages.With HTML you can create your own Website.HTML is easy to learn - You will enjoy it!
+
+
+CSS is the language we use to style an HTML document.CSS describes how HTML elements should be displayed.
+
+
+
 You can visit the issues page to find some relevant issues to contribute to or feel free to open a new issue for something that you think can be improved.
 
 Also, if you have any doubts regarding any of the concepts or how to get started, feel free to drop me a message on [Twitter](https://twitter.com/psuranas) or the [Devfolio community Telegram group](https://t.me/devfolio).
